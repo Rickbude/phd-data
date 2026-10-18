@@ -1,5 +1,4 @@
-# Animations of figures in the thesis
-
+# Animations of thesis figures
 ## Chapter 5
 
 ### Figure 5.20 a
